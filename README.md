@@ -10,3 +10,8 @@ Learn about microservices creating a basic blog that allows to create a post - w
 - Comments:
   - Create a comment;
   - List all comments;
+
+## Architecture
+- React App (Front-end)
+- Post Service
+- Comments Service
