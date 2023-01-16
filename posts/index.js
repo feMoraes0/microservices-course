@@ -20,7 +20,7 @@ app.post('/post', (req, res) => {
     id, title
   };
 
-  res.status(201).send(send[id]);
+  res.status(201).send(posts[id]);
 });
 
 app.listen(port, () => {
