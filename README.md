@@ -15,3 +15,6 @@ Learn about microservices creating a basic blog that allows to create a post - w
 - React App (Front-end)
 - Post Service
 - Comments Service
+- Event Bus
+  - Implementations: RabbitMQ, Kafka, NATS, etc...
+  - Receives events, publishes them to listeners
