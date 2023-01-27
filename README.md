@@ -18,3 +18,4 @@ Learn about microservices creating a basic blog that allows to create a post - w
 - Event Bus
   - Implementations: RabbitMQ, Kafka, NATS, etc...
   - Receives events, publishes them to listeners
+- Moderation Service
